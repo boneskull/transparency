@@ -1,4 +1,12 @@
-
+// ==UserScript==
+// @name        transparency
+// @namespace   https://github.com/leonidas
+// @homepage    http://leonidas.github.io/transparency
+// @version     0.10.0
+// @description Transparency is a minimal template engine for browsers. It maps JSON objects to DOM elements with zero configuration
+// @author      Jarno Keskikangas <jarno.keskikangas@leonidasoy.fi>
+// @license     MIT
+// ==/UserScript==
 (function e(t, n, r) {
     function s(o, u) {
         if (!n[o]) {
